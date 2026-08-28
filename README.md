@@ -5,6 +5,7 @@ Interactive Tableau dashboard exploring sales and profit.
 ## Live Dashboard
 
 [View Dashboard](https://matthewgibbs03.github.io/Tableau_Superstore_Dashboard/)
+![gif](images/Tableau.gif)
 
 ## Features
 
